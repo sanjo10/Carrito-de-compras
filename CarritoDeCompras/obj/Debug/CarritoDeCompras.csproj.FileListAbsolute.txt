@@ -1,0 +1,16 @@
+/Users/edgardopanchana/Projects/CarritoDeCompras/CarritoDeCompras/bin/Debug/CarritoDeCompras.exe
+/Users/edgardopanchana/Projects/CarritoDeCompras/CarritoDeCompras/bin/Debug/CarritoDeCompras.pdb
+/Users/edgardopanchana/Projects/CarritoDeCompras/CarritoDeCompras/obj/Debug/CarritoDeCompras.csprojAssemblyReference.cache
+/Users/edgardopanchana/Projects/CarritoDeCompras/CarritoDeCompras/obj/Debug/CarritoDeCompras.exe
+/Users/edgardopanchana/Projects/CarritoDeCompras/CarritoDeCompras/obj/Debug/CarritoDeCompras.pdb
+/Users/edgardopanchana/Downloads/carrito-de-compras-master/CarritoDeCompras/bin/Debug/CarritoDeCompras.exe
+/Users/edgardopanchana/Downloads/carrito-de-compras-master/CarritoDeCompras/bin/Debug/CarritoDeCompras.pdb
+/Users/edgardopanchana/Downloads/carrito-de-compras-master/CarritoDeCompras/obj/Debug/CarritoDeCompras.csprojAssemblyReference.cache
+/Users/edgardopanchana/Downloads/carrito-de-compras-master/CarritoDeCompras/obj/Debug/CarritoDeCompras.exe
+/Users/edgardopanchana/Downloads/carrito-de-compras-master/CarritoDeCompras/obj/Debug/CarritoDeCompras.pdb
+C:\Users\jcatangu\Documents\Angular\evaluacion-segundo-parcial-master\evaluacion-segundo-parcial-master\CarritoDeCompras\bin\Debug\CarritoDeCompras.exe
+C:\Users\jcatangu\Documents\Angular\evaluacion-segundo-parcial-master\evaluacion-segundo-parcial-master\CarritoDeCompras\bin\Debug\CarritoDeCompras.pdb
+C:\Users\jcatangu\Documents\Angular\evaluacion-segundo-parcial-master\evaluacion-segundo-parcial-master\CarritoDeCompras\obj\Debug\CarritoDeCompras.csprojAssemblyReference.cache
+C:\Users\jcatangu\Documents\Angular\evaluacion-segundo-parcial-master\evaluacion-segundo-parcial-master\CarritoDeCompras\obj\Debug\CarritoDeCompras.csproj.CoreCompileInputs.cache
+C:\Users\jcatangu\Documents\Angular\evaluacion-segundo-parcial-master\evaluacion-segundo-parcial-master\CarritoDeCompras\obj\Debug\CarritoDeCompras.exe
+C:\Users\jcatangu\Documents\Angular\evaluacion-segundo-parcial-master\evaluacion-segundo-parcial-master\CarritoDeCompras\obj\Debug\CarritoDeCompras.pdb
